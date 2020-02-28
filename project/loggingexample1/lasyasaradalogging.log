@@ -1,0 +1,17 @@
+2020-02-28 12:43:34 DEBUG Interest:29 -Simple Interest
+2020-02-28 12:43:34 INFO  Interest:11 -10.0
+2020-02-28 12:43:34 ERROR Interest:12 -There can be correction
+2020-02-28 12:43:34 WARN  Interest:13 -Some error in the code
+2020-02-28 12:43:34 FATAL Interest:14 -Program may abort
+2020-02-28 12:43:34 INFO  Interest:30 -10.0
+2020-02-28 12:43:34 INFO  Interest:20 -52000.0
+2020-02-28 12:43:34 ERROR Interest:21 -There will be corrrection
+2020-02-28 12:43:34 WARN  Interest:22 -there is something wrong in code
+2020-02-28 12:43:34 FATAL Interest:23 -there is any case of abort
+2020-02-28 12:43:34 INFO  Interest:31 -52000.0
+2020-02-28 12:56:01 DEBUG HouseConstruction:55 -Cost of the House
+2020-02-28 12:56:01 INFO  HouseConstruction:18 -600000.0
+2020-02-28 12:56:01 ERROR HouseConstruction:19 -There can be correction
+2020-02-28 12:56:01 WARN  HouseConstruction:20 -Some error in the code
+2020-02-28 12:56:01 FATAL HouseConstruction:21 -Program may abort
+2020-02-28 12:56:01 INFO  HouseConstruction:56 -600000.0
